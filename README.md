@@ -32,3 +32,5 @@ This challenge focuses on a supply chain attack via a misconfigured internal art
 
 ## Solution Walkthrough
 Refer to the [walkthrough.md](walkthrough.md) file for detailed exploitation steps.
+
+https://github.com/rikvendra/HTB-NexusDev-CI-CD-Pipeline-Poisoning/blob/main/walkthrough.md
